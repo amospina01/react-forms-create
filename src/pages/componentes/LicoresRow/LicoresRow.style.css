@@ -1,0 +1,25 @@
+.LicoresRow-container{
+    border: 2px solid brown;
+    margin-bottom: 2px;
+    font-size: 13px;
+    white-space: pre-wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+        
+}
+
+.LicoresRow-container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+        
+}
+
+.Licores-agotado{
+    color: red;
+    font-weight: bold;
+    font-size: 13px;
+    white-space: pre-wrap;
+
+}

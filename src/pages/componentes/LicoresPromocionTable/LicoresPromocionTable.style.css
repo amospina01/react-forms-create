@@ -1,0 +1,11 @@
+.LicoresPromocionTable-container{
+    width: 70%;
+    margin: 0 auto;
+    min-height: 50px;
+    border: 1px solid brown;
+    margin-top: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: left;
+
+}

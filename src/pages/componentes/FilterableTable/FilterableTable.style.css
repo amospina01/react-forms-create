@@ -1,0 +1,22 @@
+.FilterableTable-container{
+    
+    width: 90%;
+    margin: 0 auto;
+    min-height: 600px;
+    border: 1px solid brown;
+    margin-top: 10px;
+    background-color:darkgray;
+}
+
+.products-form{
+    position:absolute;
+    margin-left: -10%;   
+
+}
+
+.products-form2{
+    position:absolute;
+    margin-left: -40%;   
+
+}
+
